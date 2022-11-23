@@ -80,17 +80,11 @@ All logs are stored in the `/logs` directory. The log level is set via the `LOG.
 * **binance.log** - Binance api logging
 
 
-## Authors
-* **[Brandon Mino](https://github.com/bmino)** - *Project Lead*
-
-See also the list of [contributors](https://github.com/bmino/binance-triangle-arbitrage/contributors) who participated in this project.
-
-
 ## Donations
 The developers listed above created and maintain this project for free.
 I don't expect any compensation, but if you appreciate my work feel free to donate to the following addresses:
 
-* Ethereum (ERC20): 0xFd7b8597cF8eE5317439B0B5C55a111F6Eec449D
+* Ethereum (ERC20): 0xF3D10d314a1CCcb7F00Ddc646dF609a3d6cf94c9
 
 ## License
 This project is licensed under mit
